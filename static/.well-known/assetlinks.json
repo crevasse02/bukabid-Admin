@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.digitalnetworkasia.simotorbeta",
+        "sha256_cert_fingerprints": [
+          "D4:11:DF:4E:DA:71:FC:0F:AC:B9:09:CF:F1:BE:34:E6:1D:8E:9C:0A:25:CA:84:C9:8F:CA:77:82:DD:6A:A1:C1"
+        ]
+      }
+    }
+]
